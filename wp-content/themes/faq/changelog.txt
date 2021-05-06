@@ -1,0 +1,11 @@
+
+
+########### CHANGELOG
+
+1.0.7
+- new: Ability to enable\disable sidebar category tree via customizer
+- bugfix: added missing code to show parent categories without childs to lib/nav.php
+- bugfix: enqueued style.css
+- bugfix: sticky post single template returning in 404 error (faq_ignore_sticky())
+
+1.0.6 FAQ first official release

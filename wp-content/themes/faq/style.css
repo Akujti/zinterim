@@ -1,0 +1,36 @@
+/*
+Theme Name:         FAQ
+Theme URI:          http://www.wpcustoms.net/themes/FAQ/
+Description:        Quickly build a lightweight knowledgebase / frequently asked question site with the FAQ Theme. Built with bootstrap, Font Awesome, looks great on all devices (mobile ready) and is and optimized for pagespeed. Customize it with your own logo, background patterns and header images.
+Version:            1.0.7
+Author:             Gerald@WPcustoms
+Author URI:         http://www.wpcustoms.net/
+
+License:            GNU General Public License v2 or later
+License URI:        http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:        faq
+Tags:               blue, white, light, right-sidebar, two-columns, fixed-layout, responsive-layout, editor-style, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+
+
+FAQ WordPress Theme, Copyright 2014 WPcustoms.net
+FAQ is distributed under the terms of the GNU GPL
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+
+/* ==========================================================================
+   WordPress Generated Classes
+   See: http://codex.wordpress.org/CSS#WordPress_Generated_Classes
+   ========================================================================== */
+
+.aligncenter { display: block; margin: 0 auto; }
+.alignleft { float: left; }
+.alignright { float: right; }
+figure.alignnone { margin-left: 0; margin-right: 0; }
+.wp-caption {}
+.wp-caption-text {}
+.sticky{}
+.gallery-caption{}
+.bypostauthor{}
+
